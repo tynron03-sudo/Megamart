@@ -1,0 +1,16 @@
+tr {
+    background-color: #b6b6b6;
+    border: 9px solid black;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+th, td {
+    border: 2px solid black;
+    text-align: center;
+}
+th {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
